@@ -1,0 +1,63 @@
+// Amoy
+{
+    address: HDNodeWallet {
+      provider: JsonRpcProvider {},
+      address: '0x71A20326e955723E792E5008a9EFea989778E780',
+      publicKey: '0x02420b596c1dc589040c03392ef373cd0adbe23de40c45b196c02024b07af33349',
+      fingerprint: '0xcb1d1361',
+      parentFingerprint: '0xe12a0bfe',
+      mnemonic: Mnemonic {
+        phrase: 'half own universe secret scissors catch truck picnic gentle castle talent elite',
+        password: '',
+        wordlist: [LangEn],
+        entropy: '0x6873c3b7614c10483a4d2161247375a4'
+      },
+      chainCode: '0x2c10d4a43fd721e520c30a2c6c1d58d1101185119d397912fddc0e4f3b853483',
+      path: "m/44'/60'/0'/0/0",
+      index: 0,
+      depth: 5
+    },
+    privateKey: '0x2da92421e88610966b8331f6e347fd406c674d50d01d560201dd5dffbeab76a0'
+  }
+
+// Amoy Wallet woner
+{
+  address: HDNodeWallet {
+    provider: JsonRpcProvider {},
+    address: '0xB4B4F36De249B3459094660212988bEB6314E431',
+    publicKey: '0x03023fdfecbfba516d53238b5a6aae45540d03d5557472d042f2767185d59c6097',
+    fingerprint: '0x6e4db5bd',
+    parentFingerprint: '0x5d3ad1df',
+    mnemonic: Mnemonic {
+      phrase: 'toast claw zero two obtain forest arrow monster spirit comfort jazz gas',
+      password: '',
+      wordlist: [LangEn],
+      entropy: '0xe30543fef5d988b6432c7ad205c5ddb0'
+    },
+    chainCode: '0xe7f75f5e41f67a05ea615e0d7c3709112ac738d2bee5a3ee8cea4fab57e670b3',
+    path: "m/44'/60'/0'/0/0",
+    index: 0,
+    depth: 5
+  },
+  privateKey: '0xbf7c1415cd331bf350ecb2396d90c672e71884d287ad9fc396fbbc5f2bdd76cb'
+}
+
+// Mainnet
+{
+    provider: JsonRpcProvider {},
+    address: '0xaF5C430b3119e42f49e12b531E1787fdaa5a8b4d',
+    publicKey: '0x02e7ae674d6030e3517ebc0549c0b62daea85bbfdd35ace146b87e8a5eb830cfc3',
+    fingerprint: '0x481cc84c',
+    parentFingerprint: '0x94a43c81',
+    mnemonic: Mnemonic {
+        phrase: 'rescue increase explain shuffle harbor doctor cereal gallery duty correct table flock',
+        password: '',
+        wordlist: LangEn { locale: 'en' },
+        entropy: '0xb72e554263b690808962f844861373ac'
+    },
+    chainCode: '0x2f73b9d19ee43aadbd9a281af0c2da8b33104aea02f8fc7b7d59ded5a2dce6d2',
+    path: "m/44'/60'/0'/0/0",
+    index: 0,
+    depth: 5
+}
+0x19e2eb1a851e48790336fa2e65c5139496fc0e254b553db07b4a3afc073b3071

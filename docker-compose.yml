@@ -1,0 +1,7 @@
+version: '3.3'
+services:
+  api:
+    build: .
+    image: tftc/zaz_smart_contract
+    volumes:
+      - .:/app
